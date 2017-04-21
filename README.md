@@ -2,6 +2,9 @@
 First GitHub exercise
 This repository is for planning a party to learn GitHub and more!
 
+# New branch test
+New branch is added
+
 ## About
 This is some text about my project.
 Parties are great right? Let me tell you how mine will be the very best.
