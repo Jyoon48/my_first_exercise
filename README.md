@@ -1,9 +1,8 @@
-# I am adding one more line to the top!!
-## my_first_exercise
+# my_first_exercise
 First GitHub exercise
 This repository is for planning a party to learn GitHub and more!
 
-## New branch test
+# New branch test
 New branch is added
 
 ## About
